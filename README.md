@@ -10,5 +10,5 @@ Welcome to my first GitHub repository.
 - [x] Created GitHub account
 - [x] Created repository
 - [ ] Learn Markdown
-- [ ] Create a Project board
+- [X] Create a Project board
 - [ ] Create Issues
