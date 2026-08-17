@@ -19,7 +19,12 @@ Welcome to my first GitHub repository.
 <img src = "C:\Users\admin\Downloads\staff-appraisal-26-27\sample.jpg" width = "200" alt = "certificate">
 [!Badbe] (https://img.shields.io/badge/Status-Active-green)
 > This is a single-line quote
+> 
 >
 > This is multi-paragraph quote
 > outer quote
 > > inner quote
+<details>
+  <summary> Click to view details </summary>
+    hidden content goes here
+</details>
