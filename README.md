@@ -16,7 +16,7 @@ Welcome to my first GitHub repository.
 <code> code </code>
 |Name|Role|Status|
 |----|----|-------|
-![Alt Text](https://www.vecteezy.com/photo/57068323-single-fresh-red-strawberry-on-table-green-background-food-fruit-sweet-macro-juicy-plant-image)
+![Alt Text](https://wallpapercat.com/w/full/4/c/6/5817124-2160x3840-iphone-hd-cute-iphone-background.jpg)
 [!Badbe] (https://img.shields.io/badge/Status-Active-green)
 > This is a single-line quote
 > 
