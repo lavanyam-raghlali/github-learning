@@ -4,3 +4,4 @@
 <b>Hello World</b>
 <i> this is example for italics</i>
 <del> i have entered wrong text </del>
+<hr>
