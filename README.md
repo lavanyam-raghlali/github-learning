@@ -16,7 +16,7 @@ Welcome to my first GitHub repository.
 <code> code </code>
 |Name|Role|Status|
 |----|----|-------|
-<img src = "C:\Users\admin\Downloads\staff-appraisal-26-27\sample.jpg" width = "200" alt = "certificate">
+![Alt Text](https://www.vecteezy.com/photo/57068323-single-fresh-red-strawberry-on-table-green-background-food-fruit-sweet-macro-juicy-plant-image)
 [!Badbe] (https://img.shields.io/badge/Status-Active-green)
 > This is a single-line quote
 > 
