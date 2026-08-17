@@ -14,6 +14,8 @@ Welcome to my first GitHub repository.
 - [ ] Create Issues
 <pre> <code> code block </code></pre>
 <code> code </code>
+|Name|Role|Status|
+|----|----|-------|
 <img src = "C:\Users\admin\Downloads\staff-appraisal-26-27\sample.jpg" width = "200" alt = "certificate">
 [!Badbe] (https://img.shields.io/badge/Status-Active-green)
 > This is a single-line quote
