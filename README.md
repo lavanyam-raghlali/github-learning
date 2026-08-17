@@ -18,4 +18,8 @@
 [!cat image](https://wallpapercat.com/w/full/4/c/6/5817124-2160x3840-iphone-hd-cute-iphone-background.jpg)
 <br>
 |Name|Age|Qualification| <br>
+|:---|:---:|---:|
 |xxx|  yy| zzz|
+:--- left-align
+:---: center-align
+---: right-align
