@@ -3,4 +3,4 @@
 ### This is our Day 3 class
 <b>Hello World</b>
 <i> this is example for italics</i>
-<strikethrough> i have entered wrong text </strikethrough>
+<del> i have entered wrong text </del>
