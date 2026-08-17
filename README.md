@@ -14,4 +14,4 @@ Welcome to my first GitHub repository.
 - [ ] Create Issues
 <pre> <code> code block </code></pre>
 <code> code </code>
-<img src = ""C:\Users\admin\Downloads\staff-appraisal-26-27\sample.jpg" width = "200" alt = " certificate">
+<img src = "C:\Users\admin\Downloads\staff-appraisal-26-27\sample.jpg" width = "200" alt = "certificate">
