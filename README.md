@@ -7,8 +7,8 @@
 <del> i have entered wrong text </del> <br>
 </p>
 <hr>
-* Item -1 
-* Item -2 
+* Item -1 <br>
+* Item -2 <br>
 <br>
-1 Item -3
-2 Item -4
+1 Item -3 <br>
+2 Item -4 <br>
