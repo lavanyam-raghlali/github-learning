@@ -12,4 +12,5 @@ Welcome to my first GitHub repository.
 - [ ] Learn Markdown
 - [X] Create a Project board
 - [ ] Create Issues
+<pre> <code> code block </code></pre>
 <code> code </code>
