@@ -28,3 +28,4 @@
 [git-hub]("https://github.com") <br>
 [git-hub]("https://github.com" "click title")
 <mark>this is example for highlighting text</mark>
+<a href = "www.google.com"> click here to go to google </a>
