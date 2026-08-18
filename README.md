@@ -42,5 +42,5 @@ That is so funny! :joy:
 | -------- | ------- |
 | lavanya  | xxx     | 
 🔥
- ![hello]("C:\Users\admin\Pictures\Screenshots\hello.png" "hello")
- <img src="https://example.com" alt="Company Logo" width="150" height="50">
+ 
+ <img src="https://www.shutterstock.com/image-vector/sunrise-logo-design-yellow-gradient-color-2473529517?trackingId=e762a462-9af9-41aa-b974-b17f2e7149d2&listId=searchResults" alt="shutterstock" width="150" height="50">
