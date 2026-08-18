@@ -42,4 +42,5 @@ That is so funny! :joy:
 | -------- | ------- |
 | lavanya  | xxx     | 
 🔥
- (https://www.magnific.com/premium-ai-image/png-figurine-adult-dress-doll_413525615.htm#fromView=keyword&page=1&position=7&uuid=e83aa9e3-91e8-4066-9d61-29f75df9e437&track=ais_hybrid&query=Png "hello")
+ ![hello]("C:\Users\admin\Pictures\Screenshots\hello.png" "hello")
+ <img src="https://example.com" alt="Company Logo" width="150" height="50">
