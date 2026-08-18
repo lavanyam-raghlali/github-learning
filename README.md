@@ -28,7 +28,7 @@ Call the event coordinator if assistance is needed.
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
-
+[^1]: This is the first footnote.
 ```
 {
   "firstName": "John",
