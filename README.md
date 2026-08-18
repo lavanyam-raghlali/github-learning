@@ -24,3 +24,7 @@ Organize a neighborhood cleanup to improve the local environment.
 ## Emergency Contact
 
 Call the event coordinator if assistance is needed.
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
