@@ -29,13 +29,9 @@ Call the event coordinator if assistance is needed.
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+- [ ] hello
+- [x] hai
+
 Gone camping! :tent: Be back soon
 That is so funny! :joy:
 🚀:
@@ -49,3 +45,4 @@ That is so funny! :joy:
 - [ ] hello
 - [x] completed
 - [x] favourite items
+- [ ] 
