@@ -41,6 +41,7 @@ That is so funny! :joy:
 🚀:
 🚒:
 [^1]: This is the first footnote.
+
 | **name** | **age** |
-   ---        ---
+| -------- | ------- |
 | lavanya  | xxx     | 
