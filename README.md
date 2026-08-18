@@ -38,6 +38,6 @@ Call the event coordinator if assistance is needed.
 ```
 Gone camping! :tent: Be back soon
 That is so funny! :joy:
-:ROCKET:
-:FIRE:
+🚀:
+🚒:
 [^1]: This is the first footnote.
