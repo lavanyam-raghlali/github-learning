@@ -48,3 +48,4 @@ That is so funny! :joy:
 🔥
 - [ ] hello
 - [x] completed
+- [x] favourite items
