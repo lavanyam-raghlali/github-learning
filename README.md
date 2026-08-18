@@ -28,7 +28,7 @@ Call the event coordinator if assistance is needed.
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
-[^1]: This is the first footnote.
+
 ```
 {
   "firstName": "John",
@@ -36,3 +36,7 @@ Call the event coordinator if assistance is needed.
   "age": 25
 }
 ```
+Gone camping! :tent: Be back soon
+That is so funny! :joy:
+
+[^1]: This is the first footnote.
